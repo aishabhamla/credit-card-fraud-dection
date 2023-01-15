@@ -6,8 +6,10 @@ Snap ML not only accelerates ML algorithms through system awareness, but also of
 
 In this project I will consolidate your machine learning (ML) modeling skills by using two popular classification models to recognize fraudulent credit card transactions.
 These models are: 
-```* Decision Tree 
-* Support Vector Machine```
+```
+* Decision Tree 
+* Support Vector Machine
+```
 I will use a real dataset to train each of these models. The dataset includes information about transactions made by credit cards in September 2013 by 
 European cardholders. You will use the trained model to assess if a credit card transaction is legitimate or not.
 
